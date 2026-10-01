@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TechGrad CSE | Work-Integrated B.Tech in Computer Science",
+  title: "TechGrad B.Tech CSE | Work-Integrated B.Tech in Computer Science",
   description:
     "India's premier work-integrated B.Tech CSE program. Learn real-world full-stack development, AI engineering, and earn paid corporate internships from Year 2. UGC Recognized. Applications open for 2027 batch.",
   keywords: [
@@ -25,11 +25,18 @@ export const metadata: Metadata = {
     "software engineering degree",
     "paid internship B.Tech",
     "practical engineering education",
+    "B.Tech CSE admissions 2026",
   ],
+  metadataBase: new URL("https://techgrad-landing.vercel.app"),
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     title: "TechGrad CSE | Future-Ready B.Tech",
     description:
       "Ditch outdated college theory. Build real software from Day 1 & earn industry internships.",
+      url: "https://techgrad-landing.vercel.app",
+    siteName: "TechGrad",
     type: "website",
   },
 };
