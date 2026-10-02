@@ -77,7 +77,7 @@ function SuccessCard({ name }: { name: string }) {
 
       <div className="flex flex-col sm:flex-row items-center gap-3 justify-center">
         <a
-          href="https://wa.me/919999999999?text=Hi%2C+I+just+booked+a+TechGrad+CSE+counseling+session!"
+          href="https://wa.me/917667873988?text=Hi%2C+I+just+booked+a+TechGrad+CSE+counseling+session!"
           target="_blank" rel="noopener noreferrer"
           className="flex items-center gap-2 px-6 py-3.5 bg-[#25D366] hover:bg-[#1ebe5a] text-white font-bold rounded-xl transition-all shadow-lg shadow-[#25D366]/25 w-full sm:w-auto justify-center"
         >
@@ -93,8 +93,8 @@ function SuccessCard({ name }: { name: string }) {
       </div>
       <p className="mt-5 text-xs text-slate-600">
         Need immediate help?{" "}
-        <a href="tel:+919999999999" className="text-indigo-400 hover:underline">
-          +91-99999-99999
+        <a href="tel:+917667873988" className="text-indigo-400 hover:underline">
+          +91-76678-73988
         </a>
       </p>
     </div>

@@ -48,8 +48,8 @@ export default function Footer() {
               India&apos;s first work-integrated B.Tech CSE — engineered to produce Day-1-ready engineers.
             </p>
             <div className="space-y-2">
-              <a href="tel:+919999999999" className="flex items-center gap-2 text-xs text-slate-600 hover:text-indigo-400 transition-colors">
-                <Phone className="w-3.5 h-3.5" /> +91-99999-99999
+              <a href="tel:+917667873988" className="flex items-center gap-2 text-xs text-slate-600 hover:text-indigo-400 transition-colors">
+                <Phone className="w-3.5 h-3.5" /> +91-76678-73988
               </a>
               <a href="mailto:admissions@techgradcse.in" className="flex items-center gap-2 text-xs text-slate-600 hover:text-indigo-400 transition-colors">
                 <Mail className="w-3.5 h-3.5" /> admissions@techgradcse.in

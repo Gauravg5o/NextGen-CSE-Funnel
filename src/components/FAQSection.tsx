@@ -165,7 +165,7 @@ export default function FAQSection() {
               Book Counseling Session
             </a>
             <a
-              href="https://wa.me/919999999999"
+              href="https://wa.me/917667873988"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 text-sm font-bold text-[#25D366] bg-[#25D366]/10 hover:bg-[#25D366]/15 border border-[#25D366]/25 rounded-xl transition-all duration-200 w-full sm:w-auto justify-center"
