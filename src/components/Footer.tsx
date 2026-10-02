@@ -51,8 +51,8 @@ export default function Footer() {
               <a href="tel:+917667873988" className="flex items-center gap-2 text-xs text-slate-600 hover:text-indigo-400 transition-colors">
                 <Phone className="w-3.5 h-3.5" /> +91-76678-73988
               </a>
-              <a href="mailto:admissions@techgradcse.in" className="flex items-center gap-2 text-xs text-slate-600 hover:text-indigo-400 transition-colors">
-                <Mail className="w-3.5 h-3.5" /> admissions@techgradcse.in
+              <a href="mailto:gauravmishra5621@gmail.com" className="flex items-center gap-2 text-xs text-slate-600 hover:text-indigo-400 transition-colors">
+                <Mail className="w-3.5 h-3.5" /> gauravmishra5621@gmail.com
               </a>
             </div>
             {/* Socials */}
